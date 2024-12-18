@@ -13,7 +13,7 @@ const Footer = () => {
     src="https://cdn.lordicon.com/ulnswmkk.json"
     trigger="hover"
     >
-</lord-icon> by CodeWithHarry
+</lord-icon>Abdul Moid
             </div>
         </div>
     )
